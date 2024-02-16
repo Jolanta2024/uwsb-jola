@@ -1,3 +1,5 @@
 # uwsb-jola\
 
-Witaj Świecie!
+Witaj Świecie w GitHub!
+
+Ala ma kotka

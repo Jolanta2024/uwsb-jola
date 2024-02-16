@@ -3,3 +3,4 @@ a to jest zmodyfikowana wersja tego pliku
 
 
 
+git
